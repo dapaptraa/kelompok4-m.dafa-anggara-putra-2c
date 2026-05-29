@@ -87,7 +87,3 @@ Anggota:
 - Gathan Abramovic
 - Muhammad Dafa Anggara Putra
 - Shinta Aprilia
-
-Repository
-
-https://github.com/Kelompok4-ASD/ProyekUAS
